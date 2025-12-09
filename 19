@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Number19{
     public static void main(String[] args) {
 
-        String[] students = { "Cajes", "Dagondon", "Bentozal", "Mucha" };
+        String[] students = { "Cajes", "Cabahog", "Cabungcag", "Mucha" };
         int[] grades = { 78, 72, 82, 85 };
 
         System.out.println("Students and their grades:");
