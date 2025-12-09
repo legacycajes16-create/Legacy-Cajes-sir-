@@ -3,8 +3,8 @@ import java.util.Scanner;
 public class Number19{
     public static void main(String[] args) {
 
-        String[] students = { "Guno", "Dagondon", "Bentozal", "Bete" };
-        int[] grades = { 85, 72, 90, 78 };
+        String[] students = { "Cajes", "Dagondon", "Bentozal", "Mucha" };
+        int[] grades = { 78, 72, 82, 85 };
 
         System.out.println("Students and their grades:");
         for (int i = 0; i < students.length; i++) {
